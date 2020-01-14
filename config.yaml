@@ -1,0 +1,5 @@
+host : "http://api.toutiao.353386.com"
+
+constant.url : "&device=ios&device_Id=C9E5FEE0-2E0D-4D33-8522-9BD38A282221&version=2.3"
+
+login.url : "/?C=passport&A=login"

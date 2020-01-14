@@ -1,0 +1,21 @@
+
+[
+  {
+
+    "account": "15123456789",
+    "password": "111111",
+    "expResult": 1
+
+  },
+
+  {
+    "account": "33554",
+    "password": "111111",
+    "expResult": 0
+  },
+  {
+    "account": "15123456789",
+    "password": "",
+    "expResult": 0
+  }
+]

@@ -1,0 +1,188 @@
+2020-01-08 15:02:29,234 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '6be3dc4b1259fcc6dd535be1bcd6c960', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-08 15:02:29,272 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-08 15:14:16,184 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'e16612cf7f20dac4358889dab6610cd9', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-08 15:14:16,226 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-08 15:14:16,260 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-08 15:17:18,804 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '2d77afe4b2df03137d67dc8dc64e18ed', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-08 15:17:18,845 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-08 15:17:18,882 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-08 18:07:47,521 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'e689dd7a633d0fe63f3ba403b068ee5a', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-08 18:07:49,370 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-08 18:07:49,699 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-08 18:18:44,477 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '0260d4a627c91e4a3d8e65823c2a18f5', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-08 18:18:44,537 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-08 18:18:44,602 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 10:17:52,379 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '3368a2c1ab428f4a341cfc929970a0fe', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 10:17:52,439 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 10:17:52,497 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 10:43:37,253 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 10:43:37,317 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 10:50:15,743 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 10:50:15,799 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 11:05:53,702 - test_logger - INFO - http://api.toutiao.353386.com
+2020-01-09 11:05:53,702 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '4d1097764398ffa35f1421361ead087d', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:05:53,764 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 11:05:53,819 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 11:09:14,205 - test_logger - INFO - http://api.toutiao.353386.com
+2020-01-09 11:09:14,205 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'c06aaaec54d3c502c1266effee106e3e', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:19:35,860 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '5a0112ac94f0e7f69ac71e8aa9968802', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:23:39,208 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'd3bfc9cf3a3585e57138bb6fd8865200', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:23:39,276 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 11:23:39,333 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 11:31:38,275 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '262a08db0a419e7e3734b39b0612b5ec', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:31:38,336 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 11:31:38,394 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 11:34:46,994 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '50c226dc12036e7efa1204844bf7b06c', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:34:47,055 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 11:34:47,112 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 11:59:21,584 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '26e8a7eec456bd700069a9bc83962f22', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 11:59:21,646 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 11:59:21,704 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 12:00:55,550 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'df96d7eed56169e667768ef423d83036', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 12:00:55,614 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 12:00:55,676 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 13:12:59,612 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '6715e2b91e4ccd04272af31395e355ca', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 13:12:59,992 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 13:13:00,236 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 13:19:06,545 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '27de53ac59e09c4cf79a0e4ee5043e99', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 13:19:06,656 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 13:19:06,803 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 18:23:27,692 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '29468a477fb390a3487875bf46ba7e3d', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 18:23:27,730 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 18:23:27,762 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-09 18:55:34,856 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '57e5f8b9a3251d243824ce54f1b8cee8', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-09 18:55:34,893 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-09 18:55:34,926 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:04:47,706 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'e4573f8e2b4cb30bb93de69a892ebecf', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:04:47,779 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:04:47,846 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:15:19,525 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '189b9fbdec24212f7802816746ebba6f', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:15:19,587 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:15:19,646 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:16:24,072 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'aaa949d9d5ca7cc3741ab2955f3a4570', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:16:24,135 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:16:24,193 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:17:07,940 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'b37bd5a225e5889df0fce607f9172c17', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:17:08,002 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:17:08,061 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:17:28,101 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'efff89f01ca7a2da772c32507d85fc0f', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:17:28,160 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:17:28,215 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:17:36,902 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'c351574192b19ed9d851e1d5c9091c3b', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:17:36,965 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:17:37,024 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:18:18,281 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '6290b8111e20945b3b681555d2fdaca2', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:18:18,344 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:18:18,409 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:20:15,443 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '82881efb299ce9ba921b212607b47ee9', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:20:15,514 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:20:15,579 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:27:37,624 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '89353a4b5bc0e6318bd51633ff481470', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:27:37,694 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:27:37,752 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:28:20,114 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '0e689e73de5f1b78966fd7a891d55d82', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:28:20,176 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:28:20,232 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:30:11,116 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '6bed155f474707a9b14a05c7a97cfc58', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:30:11,178 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:30:11,238 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:39:52,044 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '5cd3154b7057d7b68c8a6cd7b6239c0a', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:39:52,106 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:39:52,164 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:40:52,509 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '3b83fe9a99909bf528e9430e28976ef9', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:40:52,572 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:40:52,637 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:41:25,315 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '0439611d86e65f36eeb6c1c6be27fca8', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:41:25,378 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:41:25,434 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:41:46,093 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'a191f509109ef66d99310dcfefd41ada', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:41:46,162 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:41:46,222 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:46:18,219 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'a370b18496931cecd4f938800937c413', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:46:18,285 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:46:18,347 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:47:51,539 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '314caa06a3be0658587e4a26f3d917c1', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:47:51,599 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:47:51,657 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:51:14,391 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '9b405bf7495b3b965ab2bade6849c10a', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:51:14,462 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:51:14,520 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 19:56:13,160 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '983b3d7088eb288fe0caf95c22762d71', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 19:56:13,222 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 19:56:13,285 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 20:05:44,160 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '0c25442af4ce76caaa0b4002701f535d', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 20:05:44,223 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 20:05:44,290 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 20:28:27,296 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '140bb9f05a67454bfdff65947654b2b3', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 20:28:27,366 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 20:28:27,424 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 20:28:33,576 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '5cc92b5659ce6bb1fc3a4a2bd40b9e1e', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 20:28:33,640 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 20:28:33,697 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-10 21:02:44,556 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'ff79ba4f3fb22d8f51de3cde08fe7445', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-10 21:02:44,627 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-10 21:02:45,688 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 08:51:15,379 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '4e2e8a4eff1aa3bd1770cfdb487c7bf9', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-11 08:51:15,440 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-11 08:51:15,498 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 08:53:39,455 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '4d64b0a21286ab25a5ea93179e6d0db0', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-11 08:53:39,518 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-11 08:53:39,575 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 08:53:59,429 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '83c00b3fdf18c9f2e3c1236739689603', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-11 08:53:59,488 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-11 08:53:59,546 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 11:12:13,445 - test_logger - INFO - 这是测试信息
+2020-01-11 11:17:52,829 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '689719497fa68a211982ca8d74534b24', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-11 11:17:52,865 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-11 11:17:52,899 - test_logger - INFO - <class 'dict'>
+2020-01-11 11:17:52,899 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 11:34:31,649 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'c40b7a5f2f8ff0cf4131366b25a2fd26', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-11 11:34:31,685 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-11 11:34:31,718 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 16:15:20,498 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-11 16:54:28,773 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '1161b9d58d3b54ef0795d37214827028', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-11 16:54:28,865 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-11 16:54:28,990 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-13 14:48:32,546 - test_logger - INFO - 这是测试信息
+2020-01-13 20:27:43,854 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '72ac0ce06c7c5fd594423057e00f2b50', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-13 20:27:43,914 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-13 20:27:43,974 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-13 20:46:41,242 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '505a255582cb84b4d08300ce4a0f5b7e', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-13 20:46:41,305 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-13 20:46:41,363 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-13 20:48:32,821 - test_logger - INFO - 这是测试信息
+2020-01-14 11:53:54,063 - test_logger - INFO - 这是测试信息
+2020-01-14 11:54:05,619 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'fe8a11848388449c2efba0fd82a8d228', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 11:54:05,684 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 11:54:05,749 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 11:54:32,182 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'be5b66969d23d82ab630b88a2615210e', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 11:54:32,242 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 11:54:32,302 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 14:43:19,274 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '206c4a9565a3fb7b6e3a82d4b4dded11', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 14:43:19,335 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 14:43:19,395 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 14:53:24,847 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'ca2f51c7eda36a7293e6e5c12996b4c1', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 14:53:24,884 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 14:53:24,917 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 14:53:55,263 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'b4d080aee9eea9e19a1eae8d058ec7c4', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 14:53:55,300 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 14:53:55,333 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 14:54:13,583 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'f24e4b9228bc71deba4b83fc77746262', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 14:54:13,619 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 14:54:13,652 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 16:00:19,053 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'e036c698b1de704509f2024b91dda927', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 16:00:19,090 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 16:00:19,123 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 16:00:35,986 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '451c7ae59c2e07a5919bca0628746aa3', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 16:00:36,023 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 16:00:36,057 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 16:03:58,414 - test_logger - INFO - 这是测试信息
+2020-01-14 16:04:05,587 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'a5e777f97bdbfbe48211463449f46f49', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 16:04:05,622 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 16:04:05,654 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 16:05:53,795 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '196b3151d7d75445c4bb6284b41a4d5b', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 16:05:53,832 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 16:05:53,866 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-14 16:05:56,708 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'e6e13c243770710dc334b31bb231e878', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-14 16:05:56,745 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-14 16:05:56,779 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
