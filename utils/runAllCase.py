@@ -6,6 +6,8 @@ class RunAllCase():
 
     @classmethod
     def setUpClass(cls):
+        project_path = os.path.dirname(os.getcwd())
+        sys.path.append(project_path)
         print("------测试开始执行------")
 
     @staticmethod
@@ -19,6 +21,7 @@ class RunAllCase():
                 os.mkdir(file_path)
             file_name = file_path + "result.html"
             # 指定要运行哪些测试用例
+
             test_model = "../cases/"
             discover = unittest.defaultTestLoader.discover(test_model, pattern="test*.py")
 
@@ -26,8 +29,9 @@ class RunAllCase():
                 # 将运行结果记录在测试报告中
                 runner = HTMLTestRunner(stream=f, verbosity=2, title="测试报告", description="用例运行详细信息")
                 runner.run(discover)
-        finally:
-            f.close()
+        except RuntimeError as e:
+            print(e)
+
 
     @classmethod
     def tearDownClass(cls):

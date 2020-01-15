@@ -1,4 +1,6 @@
 import unittest
+import sys
+import os
 from utils.operation_yaml import OperateYaml
 from utils.logconfig import LogConfig
 
@@ -15,6 +17,11 @@ class SetUpCase():
 
         logger = LogConfig.get_logger()
         return logger
+
+    @staticmethod
+    def add_project_path():
+        project_path = os.path.dirname(os.getcwd())
+        sys.path.append(project_path)
 
 
 if __name__ == '__main__':

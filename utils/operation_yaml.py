@@ -17,7 +17,7 @@ class OperateYaml():
             else:
                 return "yaml文件不存在"
 
-        except RuntimeError as e:
+        except FileNotFoundError as e:
             print(e)
 
         finally:

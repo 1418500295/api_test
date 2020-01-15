@@ -4,11 +4,14 @@ from utils.operation_json import OperateJson
 from utils.setUpCases import SetUpCase
 import unittest
 
+
 logger = SetUpCase.get_logger()
 
 class RunCases(unittest.TestCase):
 
-
+    @classmethod
+    def setUpClass(cls):
+        SetUpCase.add_project_path()
 
     def test_login_01(self):
 
@@ -37,8 +40,6 @@ class RunCases(unittest.TestCase):
 
         self.assertEqual(result["status"], data[2]["expResult"])
         logger.info("实际结果是" + str(result))
-
-
 
 
 if __name__ == "__main__":
