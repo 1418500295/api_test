@@ -1,8 +1,7 @@
-import unittest
 import sys
 import os
 from utils.operation_yaml import OperateYaml
-from utils.logconfig import LogConfig
+from dataconfig.logconfig import LogConfig
 
 class SetUpCase():
 
