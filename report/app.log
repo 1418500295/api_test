@@ -324,3 +324,12 @@
 2020-01-15 15:22:15,126 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '9343b82753525f553046ad3fdad86138', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
 2020-01-15 15:22:15,189 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
 2020-01-15 15:22:15,249 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-15 15:41:45,308 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': 'd71f228d245f7912dad16dd423d4c525', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-15 15:41:45,370 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-15 15:41:45,428 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-15 15:42:21,302 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '24e2ed9b079984169ceb0b9c5229f305', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-15 15:42:21,363 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-15 15:42:21,419 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
+2020-01-17 18:24:53,887 - test_logger - INFO - 实际结果是{'status': 1, 'result': {'Id': '16266', 'Safety': '61b83b3fe3bc2d21cf00ceb11a0da3a0', 'Password': '$2y$10$ksY71AFU2LBpzKawwgo7dOvkbiYEfXE0jCBTFsOVZm56QddkWZzaW', 'Face': 'https://upload.cc/i1/2019/08/09/Dc6KWB.jpeg', 'Uid': 'LT016266', 'Status': '1', 'Remark': '', 'Nickname': '民心所向', 'Level': '0'}}
+2020-01-17 18:24:53,958 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账户不存在'}
+2020-01-17 18:24:54,021 - test_logger - INFO - 实际结果是{'status': 0, 'msg': '账号和密码不能为空'}
