@@ -1,7 +1,7 @@
 import os,sys,time
 import unittest
-from HTMLTestRunner import HTMLTestRunner
-
+from HTMLTestRunner_PY3 import HTMLTestRunner_PY3
+# from HTMLTestRunner import HTMLTestRunner
 class RunAllCase():
 
     @classmethod
@@ -27,7 +27,7 @@ class RunAllCase():
 
             with open(file_name, "wb") as f:
                 # 将运行结果记录在测试报告中
-                runner = HTMLTestRunner(stream=f, verbosity=2, title="测试报告", description="用例运行详细信息")
+                runner = HTMLTestRunner_PY3.HTMLTestRunner(stream=f, verbosity=2, title="接口自动化报告", description="用例运行详细信息")
                 runner.run(discover)
         except RuntimeError as e:
             print(e)

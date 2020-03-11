@@ -4,11 +4,12 @@ coon = DbConfig.db_connect()
 class DBUtils():
 
     @staticmethod
-    def select(table_name=None, select_by=None):
+    def select(table_name=None, id=None):
         cur = coon.cursor()
-        sql = "select * from %s where id = %s " % (table_name, select_by)
+        sql = "select * from %s where id = %s " % (table_name, id)
         cur.execute(sql)
         rs = cur.fetchone()
+        coon.commit()
         cur.close()
         coon.close()
         return rs
@@ -17,7 +18,7 @@ class DBUtils():
     def update(sql):
         cur = coon.cursor()
         cur.execute(sql)
-        res = cur.fetchone()
+        res = cur.fetchall()
         cur.close()
         coon.close()
         return res
@@ -27,9 +28,9 @@ class DBUtils():
 
 
 if __name__ == '__main__':
-    res = DBUtils.select()
-    print(res[1])
-    print(type(res))
+    rs = DBUtils.select("user", "1")
+    print(rs)
+
 
 
 

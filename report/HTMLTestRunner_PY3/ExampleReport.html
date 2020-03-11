@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>接口自动化报告</title>
+    <title>Example用例执行报告</title>
     <meta name="generator" content="HTMLTestRunner 0.9.1"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     
@@ -199,13 +199,13 @@
     <div id="div_base">
         
     <div class='page-header'>
-        <h1>接口自动化报告</h1>
-    <p class='attribute'><strong>开始时间:</strong> 2020-03-11 11:09:33</p>
-<p class='attribute'><strong>运行时长:</strong> 0:00:00.483173</p>
-<p class='attribute'><strong>状态:</strong> 通过 2 错误 1</p>
+        <h1>Example用例执行报告</h1>
+    <p class='attribute'><strong>开始时间:</strong> 2017-12-28 14:58:27</p>
+<p class='attribute'><strong>运行时长:</strong> 0:00:00.003002</p>
+<p class='attribute'><strong>状态:</strong> 通过 5 失败 4 错误 2</p>
 
     </div>
-    <div style="float: left;width:50%;"><p class='description'>用例运行详细信息</p></div>
+    <div style="float: left;width:50%;"><p class='description'>用于展示修改样式后的HTMLTestRunner</p></div>
     <div id="chart" style="width:50%;height:400px;float:left;"></div>
 
         
@@ -234,39 +234,99 @@
         </tr>
         
     <tr class='errorClass'>
-        <td>test_login.RunCases</td>
+        <td>TestTest:  测试HTMLTestRunner </td>
+        <td>7</td>
         <td>3</td>
-        <td>2</td>
-        <td>0</td>
+        <td>3</td>
         <td>1</td>
-        <td><a href="javascript:showClassDetail('c1',3)">详情</a></td>
+        <td><a href="javascript:showClassDetail('c1',7)">详情</a></td>
     </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_login_01</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_a_divide_c: a / c = 1 这是个有subTest的用例</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        通过</a>
+
+    <div id='div_pt1.1' class="popup_window">
+        <pre>pt1.1: a / c = 1
+a / c = 1
+a / c = 1
+
+SubTestCase Pass:
+test_a_divide_c (__main__.TestTest) (i=1)</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='ft1.2' class='none'>
+    <td class='failCase'><div class='testcase'>test_a_divide_c: a / c = 1 这是个有subTest的用例</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.2')" >
+        失败</a>
+
+    <div id='div_ft1.2' class="popup_window">
+        <pre>ft1.2: a / c = 1
+a / c = 1
+a / c = 1
+
+SubTestCase Failed:
+test_a_divide_c (__main__.TestTest) (i=2)Traceback (most recent call last):
+  File "E:/PY/HTMLTestRunner_PY3/test.py", line 32, in test_a_divide_c
+    self.assertEqual(self.a / i, 1)
+AssertionError: 0.5 != 1
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='ft1.3' class='none'>
+    <td class='failCase'><div class='testcase'>test_a_divide_c: a / c = 1 这是个有subTest的用例</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.3')" >
+        失败</a>
+
+    <div id='div_ft1.3' class="popup_window">
+        <pre>ft1.3: a / c = 1
+a / c = 1
+a / c = 1
+
+SubTestCase Failed:
+test_a_divide_c (__main__.TestTest) (i=3)Traceback (most recent call last):
+  File "E:/PY/HTMLTestRunner_PY3/test.py", line 32, in test_a_divide_c
+    self.assertEqual(self.a / i, 1)
+AssertionError: 0.3333333333333333 != 1
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='ft1.4' class='none'>
+    <td class='errorCase'><div class='testcase'>test_a_error_case: 除零异常</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.4')" >
         错误</a>
 
-    <div id='div_ft1.1' class="popup_window">
-        <pre>ft1.1: C:\Users\ASUS\PycharmProjects\api_test
-C:\Users\ASUS\PycharmProjects\api_test/testdata/login.json
+    <div id='div_ft1.4' class="popup_window">
+        <pre>ft1.4: 1/0
 Traceback (most recent call last):
-  File "C:\Users\ASUS\PycharmProjects\api_test\cases\test_login.py", line 19, in test_login_01
-    result = RunMethod.post_main(url=SetUpCase.get_url("host", "login.url",
-  File "C:\Users\ASUS\PycharmProjects\api_test\utils\run_method.py", line 14, in post_main
-    res = requests.post(url=url, data=data).json()
-  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python38\lib\site-packages\requests\models.py", line 897, in json
-    return complexjson.loads(self.text, **kwargs)
-  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python38\lib\json\__init__.py", line 357, in loads
-    return _default_decoder.decode(s)
-  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python38\lib\json\decoder.py", line 337, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python38\lib\json\decoder.py", line 355, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  File "E:/PY/HTMLTestRunner_PY3/test.py", line 37, in test_a_error_case
+    self.assertEqual(self.a/0, 1)
+ZeroDivisionError: division by zero
 </pre>
     </div>
     <!--css div popup end-->
@@ -274,17 +334,20 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
     </td>
 </tr>
 
-<tr id='pt1.2' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_login_02</div></td>
+<tr id='ft1.5' class='none'>
+    <td class='failCase'><div class='testcase'>test_a_minus_b: a - b = 3 这个用例应该失败</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
-        通过</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.5')" >
+        失败</a>
 
-    <div id='div_pt1.2' class="popup_window">
-        <pre>pt1.2: C:\Users\ASUS\PycharmProjects\api_test
-C:\Users\ASUS\PycharmProjects\api_test/testdata/login.json
+    <div id='div_ft1.5' class="popup_window">
+        <pre>ft1.5: a - b = 3
+Traceback (most recent call last):
+  File "E:/PY/HTMLTestRunner_PY3/test.py", line 20, in test_a_minus_b
+    self.assertEqual(self.a-self.b, 3)
+AssertionError: -1 != 3
 </pre>
     </div>
     <!--css div popup end-->
@@ -292,17 +355,124 @@ C:\Users\ASUS\PycharmProjects\api_test/testdata/login.json
     </td>
 </tr>
 
-<tr id='pt1.3' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_login_03</div></td>
+<tr id='pt1.6' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_a_multi_b: a * b = 2 这个用例应该成功</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.3')" >
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.6')" >
         通过</a>
 
-    <div id='div_pt1.3' class="popup_window">
-        <pre>pt1.3: C:\Users\ASUS\PycharmProjects\api_test
-C:\Users\ASUS\PycharmProjects\api_test/testdata/login.json
+    <div id='div_pt1.6' class="popup_window">
+        <pre>pt1.6: a * b = 2
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.7' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_a_plus_b: a + b = 3 这个用例应该通过</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.7')" >
+        通过</a>
+
+    <div id='div_pt1.7' class="popup_window">
+        <pre>pt1.7: a + b = 3
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+    <tr class='failClass'>
+        <td>ExampleCase1: 此class包含两个用例：add - ok， minus - FAIL</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c2',2)">详情</a></td>
+    </tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_add: 用例1，add，此用例成功通过</div></td>
+    <td colspan='5' align='center'>通过</td>
+</tr>
+
+<tr id='ft2.2' class='none'>
+    <td class='failCase'><div class='testcase'>test_minus: 用例2，minus，此用例执行失败，4-3！=2</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.2')" >
+        失败</a>
+
+    <div id='div_ft2.2' class="popup_window">
+        <pre>ft2.2: 中文方法反反复复凤飞飞反复
+Traceback (most recent call last):
+  File "E:/PY/HTMLTestRunner_PY3/test.py", line 53, in test_minus
+    self.assertEqual(self.a - self.b, 2)
+AssertionError: 1 != 2
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+    <tr class='errorClass'>
+        <td>ExampleCase2: 此class包含一个用例：plus - ERROR</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td><a href="javascript:showClassDetail('c3',1)">详情</a></td>
+    </tr>
+
+<tr id='ft3.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_plus: 用例3，plus，此用例执行出错，因为c未定义</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
+        错误</a>
+
+    <div id='div_ft3.1' class="popup_window">
+        <pre>ft3.1: Traceback (most recent call last):
+  File "E:/PY/HTMLTestRunner_PY3/test.py", line 63, in test_plus
+    self.assertEqual(self.a * self.b, c)
+NameError: name 'c' is not defined
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+    <tr class='passClass'>
+        <td>ExampleCase3: 此class包含一个用例：divide - ok</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c4',1)">详情</a></td>
+    </tr>
+
+<tr id='pt4.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_devide: 用例4，divide，此用例执行成功</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.1')" >
+        通过</a>
+
+    <div id='div_pt4.1' class="popup_window">
+        <pre>pt4.1: 我要打印输出
+我要打印输出222
 </pre>
     </div>
     <!--css div popup end-->
@@ -312,10 +482,10 @@ C:\Users\ASUS\PycharmProjects\api_test/testdata/login.json
 
         <tr id='total_row'>
             <td>总计</td>
-            <td>3</td>
+            <td>11</td>
+            <td>5</td>
+            <td>4</td>
             <td>2</td>
-            <td>0</td>
-            <td>1</td>
             <td>&nbsp;</td>
         </tr>
     </table>
@@ -349,9 +519,9 @@ C:\Users\ASUS\PycharmProjects\api_test/testdata/login.json
                     radius : '60%',
                     center: ['50%', '60%'],
                     data:[
-                        {value:2, name:'通过'},
-                        {value:0, name:'失败'},
-                        {value:1, name:'错误'}
+                        {value:5, name:'通过'},
+                        {value:4, name:'失败'},
+                        {value:2, name:'错误'}
                     ],
                     itemStyle: {
                         emphasis: {
